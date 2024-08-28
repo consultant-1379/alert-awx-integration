@@ -1,0 +1,6 @@
+[AWX]
+AWX_HOST=localhost
+AWX_PORT=8051
+AWX_PROJECT=Alerting
+AWX_TEMPLATE=Alerting Test
+AWX_TOKEN=< token >
